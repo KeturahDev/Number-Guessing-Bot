@@ -1,6 +1,6 @@
 # Number-Guessing-Bot
 
-####  C# _Febuary 24 2020_
+####  C# _Febuary 20 2020_
 
 #### By _**Keturah Howard**_
 
